@@ -9,6 +9,7 @@ Criar uma landing page com foco em geração de leads para corretores de imóvei
 - Figma
 - GitHub
 - DIO
+- IA
   
 ## 🧠 Conceitos Aplicados
 - Hierarquia visual
